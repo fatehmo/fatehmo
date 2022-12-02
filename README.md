@@ -1,4 +1,4 @@
-<div dir="rtl">
+<div dir="rtl" style="width:50%;float:right;">
 
 - 👋 سلام . من محمد فاتح هستم
 - 🧑‍💻 برنامه نویس
@@ -8,11 +8,16 @@
 
 </div>
 
+<div dir="ltr" style="width:50%;float:left;">
+
 - 👋 Hi, I’m Mohammad Fateh
 - 🧑‍💻 A software developer
 - 👨‍🏫 I do Software development with innovative method
 - 📘 I am Always on the learning path
 - 💼 I Work as a Technical manager in company
+
+</div>
+
 
 <!---
 fatehmo/fatehmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
