@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-- 👋 Hi, I’m Mohammad Fateh
+- 👋 سلام . من محمد فاتح هستم
 - 🧑‍💻 A software developer
 - 👨‍🏫 I do Software development with innovative method
 - 📘 I am Always on the learning path
