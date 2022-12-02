@@ -1,3 +1,13 @@
+<div dir="rtl">
+
+- 👋 Hi, I’m Mohammad Fateh
+- 🧑‍💻 A software developer
+- 👨‍🏫 I do Software development with innovative method
+- 📘 I am Always on the learning path
+- 💼 I Work as a Technical manager in company
+
+</div>
+
 - 👋 Hi, I’m Mohammad Fateh
 - 🧑‍💻 A software developer
 - 👨‍🏫 I do Software development with innovative method
