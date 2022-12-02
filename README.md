@@ -1,10 +1,10 @@
 <div dir="rtl">
 
 - 👋 سلام . من محمد فاتح هستم
-- 🧑‍💻 A software developer
-- 👨‍🏫 I do Software development with innovative method
-- 📘 I am Always on the learning path
-- 💼 I Work as a Technical manager in company
+- 🧑‍💻 برنامه نویس
+- 👨‍🏫 توسعه نرم افزار با متد ابداعی
+- 📘 همیشه در مسیر یادگیری
+- 💼 مدیرفنی در شرکت خصوصی
 
 </div>
 
