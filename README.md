@@ -1,4 +1,4 @@
-<div dir="rtl" style="width:50%;float:right;">
+<div dir="rtl">
 
 - 👋 سلام . من محمد فاتح هستم
 - 🧑‍💻 برنامه نویس
@@ -8,7 +8,7 @@
 
 </div>
 
-<div dir="ltr" style="width:50%;float:left;">
+<div dir="ltr">
 
 - 👋 Hi, I’m Mohammad Fateh
 - 🧑‍💻 A software developer
